@@ -8,12 +8,13 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-size: 1540px 1000px;
+    background-size: 1540px 870px;
     display: flex;
     align-items: center;
     justify-content: center;
     background-image: url("main-image.jpg");
     background-repeat: no-repeat;
+    
 }
 
 .calculator {
@@ -56,3 +57,4 @@ form input.equal{
 form input.operator{
     color: #00ff40;
 }
+
